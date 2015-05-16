@@ -1,9 +1,10 @@
-title = "My New Hugo Site"
+baseurl = "http://wintersone.github.io"
+title = "Random Thought"
 theme = "hyde-x"
 MetaDataFormat = "toml"
 
 [author]
-    name = "Your Name"
+    name = "Huan"
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
@@ -33,4 +34,4 @@ MetaDataFormat = "toml"
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "Your favourite quote or soundbite."
+    tagline = "Codezing"
