@@ -1,6 +1,6 @@
 baseurl = "http://wintersone.github.io"
 title = "Random Thought"
-theme = "hyde-x"
+theme = "liquorice"
 MetaDataFormat = "toml"
 
 [author]
